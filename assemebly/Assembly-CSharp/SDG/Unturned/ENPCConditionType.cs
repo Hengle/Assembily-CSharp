@@ -1,0 +1,43 @@
+﻿using System;
+
+namespace SDG.Unturned
+{
+	// Token: 0x020003A3 RID: 931
+	public enum ENPCConditionType
+	{
+		// Token: 0x04000E5B RID: 3675
+		NONE,
+		// Token: 0x04000E5C RID: 3676
+		EXPERIENCE,
+		// Token: 0x04000E5D RID: 3677
+		REPUTATION,
+		// Token: 0x04000E5E RID: 3678
+		FLAG_BOOL,
+		// Token: 0x04000E5F RID: 3679
+		FLAG_SHORT,
+		// Token: 0x04000E60 RID: 3680
+		QUEST,
+		// Token: 0x04000E61 RID: 3681
+		SKILLSET,
+		// Token: 0x04000E62 RID: 3682
+		ITEM,
+		// Token: 0x04000E63 RID: 3683
+		KILLS_ZOMBIE,
+		// Token: 0x04000E64 RID: 3684
+		KILLS_HORDE,
+		// Token: 0x04000E65 RID: 3685
+		KILLS_ANIMAL,
+		// Token: 0x04000E66 RID: 3686
+		COMPARE_FLAGS,
+		// Token: 0x04000E67 RID: 3687
+		TIME_OF_DAY,
+		// Token: 0x04000E68 RID: 3688
+		PLAYER_LIFE_HEALTH,
+		// Token: 0x04000E69 RID: 3689
+		PLAYER_LIFE_FOOD,
+		// Token: 0x04000E6A RID: 3690
+		PLAYER_LIFE_WATER,
+		// Token: 0x04000E6B RID: 3691
+		PLAYER_LIFE_VIRUS
+	}
+}

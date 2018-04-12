@@ -1,0 +1,103 @@
+﻿using System;
+
+namespace SDG.Unturned
+{
+	// Token: 0x020003A2 RID: 930
+	public enum EItemType
+	{
+		// Token: 0x04000E2B RID: 3627
+		HAT,
+		// Token: 0x04000E2C RID: 3628
+		PANTS,
+		// Token: 0x04000E2D RID: 3629
+		SHIRT,
+		// Token: 0x04000E2E RID: 3630
+		MASK,
+		// Token: 0x04000E2F RID: 3631
+		BACKPACK,
+		// Token: 0x04000E30 RID: 3632
+		VEST,
+		// Token: 0x04000E31 RID: 3633
+		GLASSES,
+		// Token: 0x04000E32 RID: 3634
+		GUN,
+		// Token: 0x04000E33 RID: 3635
+		SIGHT,
+		// Token: 0x04000E34 RID: 3636
+		TACTICAL,
+		// Token: 0x04000E35 RID: 3637
+		GRIP,
+		// Token: 0x04000E36 RID: 3638
+		BARREL,
+		// Token: 0x04000E37 RID: 3639
+		MAGAZINE,
+		// Token: 0x04000E38 RID: 3640
+		FOOD,
+		// Token: 0x04000E39 RID: 3641
+		WATER,
+		// Token: 0x04000E3A RID: 3642
+		MEDICAL,
+		// Token: 0x04000E3B RID: 3643
+		MELEE,
+		// Token: 0x04000E3C RID: 3644
+		FUEL,
+		// Token: 0x04000E3D RID: 3645
+		TOOL,
+		// Token: 0x04000E3E RID: 3646
+		BARRICADE,
+		// Token: 0x04000E3F RID: 3647
+		STORAGE,
+		// Token: 0x04000E40 RID: 3648
+		BEACON,
+		// Token: 0x04000E41 RID: 3649
+		FARM,
+		// Token: 0x04000E42 RID: 3650
+		TRAP,
+		// Token: 0x04000E43 RID: 3651
+		STRUCTURE,
+		// Token: 0x04000E44 RID: 3652
+		SUPPLY,
+		// Token: 0x04000E45 RID: 3653
+		THROWABLE,
+		// Token: 0x04000E46 RID: 3654
+		GROWER,
+		// Token: 0x04000E47 RID: 3655
+		OPTIC,
+		// Token: 0x04000E48 RID: 3656
+		REFILL,
+		// Token: 0x04000E49 RID: 3657
+		FISHER,
+		// Token: 0x04000E4A RID: 3658
+		CLOUD,
+		// Token: 0x04000E4B RID: 3659
+		MAP,
+		// Token: 0x04000E4C RID: 3660
+		KEY,
+		// Token: 0x04000E4D RID: 3661
+		BOX,
+		// Token: 0x04000E4E RID: 3662
+		ARREST_START,
+		// Token: 0x04000E4F RID: 3663
+		ARREST_END,
+		// Token: 0x04000E50 RID: 3664
+		TANK,
+		// Token: 0x04000E51 RID: 3665
+		GENERATOR,
+		// Token: 0x04000E52 RID: 3666
+		DETONATOR,
+		// Token: 0x04000E53 RID: 3667
+		CHARGE,
+		// Token: 0x04000E54 RID: 3668
+		LIBRARY,
+		// Token: 0x04000E55 RID: 3669
+		FILTER,
+		// Token: 0x04000E56 RID: 3670
+		SENTRY,
+		// Token: 0x04000E57 RID: 3671
+		VEHICLE_REPAIR_TOOL,
+		// Token: 0x04000E58 RID: 3672
+		TIRE,
+		// Token: 0x04000E59 RID: 3673
+		COMPASS
+	}
+}

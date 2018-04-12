@@ -1,0 +1,69 @@
+﻿using System;
+
+namespace SDG.Unturned
+{
+	// Token: 0x020005DE RID: 1502
+	public enum EDeathCause
+	{
+		// Token: 0x04001A54 RID: 6740
+		BLEEDING,
+		// Token: 0x04001A55 RID: 6741
+		BONES,
+		// Token: 0x04001A56 RID: 6742
+		FREEZING,
+		// Token: 0x04001A57 RID: 6743
+		BURNING,
+		// Token: 0x04001A58 RID: 6744
+		FOOD,
+		// Token: 0x04001A59 RID: 6745
+		WATER,
+		// Token: 0x04001A5A RID: 6746
+		GUN,
+		// Token: 0x04001A5B RID: 6747
+		MELEE,
+		// Token: 0x04001A5C RID: 6748
+		ZOMBIE,
+		// Token: 0x04001A5D RID: 6749
+		ANIMAL,
+		// Token: 0x04001A5E RID: 6750
+		SUICIDE,
+		// Token: 0x04001A5F RID: 6751
+		KILL,
+		// Token: 0x04001A60 RID: 6752
+		INFECTION,
+		// Token: 0x04001A61 RID: 6753
+		PUNCH,
+		// Token: 0x04001A62 RID: 6754
+		BREATH,
+		// Token: 0x04001A63 RID: 6755
+		ROADKILL,
+		// Token: 0x04001A64 RID: 6756
+		VEHICLE,
+		// Token: 0x04001A65 RID: 6757
+		GRENADE,
+		// Token: 0x04001A66 RID: 6758
+		SHRED,
+		// Token: 0x04001A67 RID: 6759
+		LANDMINE,
+		// Token: 0x04001A68 RID: 6760
+		ARENA,
+		// Token: 0x04001A69 RID: 6761
+		MISSILE,
+		// Token: 0x04001A6A RID: 6762
+		CHARGE,
+		// Token: 0x04001A6B RID: 6763
+		SPLASH,
+		// Token: 0x04001A6C RID: 6764
+		SENTRY,
+		// Token: 0x04001A6D RID: 6765
+		ACID,
+		// Token: 0x04001A6E RID: 6766
+		BOULDER,
+		// Token: 0x04001A6F RID: 6767
+		BURNER,
+		// Token: 0x04001A70 RID: 6768
+		SPIT,
+		// Token: 0x04001A71 RID: 6769
+		SPARK
+	}
+}

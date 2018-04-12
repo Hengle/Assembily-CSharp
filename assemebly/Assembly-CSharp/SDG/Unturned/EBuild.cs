@@ -1,0 +1,85 @@
+﻿using System;
+
+namespace SDG.Unturned
+{
+	// Token: 0x0200039D RID: 925
+	public enum EBuild
+	{
+		// Token: 0x04000DE8 RID: 3560
+		FORTIFICATION,
+		// Token: 0x04000DE9 RID: 3561
+		BARRICADE,
+		// Token: 0x04000DEA RID: 3562
+		DOOR,
+		// Token: 0x04000DEB RID: 3563
+		GATE,
+		// Token: 0x04000DEC RID: 3564
+		BED,
+		// Token: 0x04000DED RID: 3565
+		LADDER,
+		// Token: 0x04000DEE RID: 3566
+		STORAGE,
+		// Token: 0x04000DEF RID: 3567
+		FARM,
+		// Token: 0x04000DF0 RID: 3568
+		TORCH,
+		// Token: 0x04000DF1 RID: 3569
+		CAMPFIRE,
+		// Token: 0x04000DF2 RID: 3570
+		SPIKE,
+		// Token: 0x04000DF3 RID: 3571
+		WIRE,
+		// Token: 0x04000DF4 RID: 3572
+		GENERATOR,
+		// Token: 0x04000DF5 RID: 3573
+		SPOT,
+		// Token: 0x04000DF6 RID: 3574
+		SAFEZONE,
+		// Token: 0x04000DF7 RID: 3575
+		FREEFORM,
+		// Token: 0x04000DF8 RID: 3576
+		SIGN,
+		// Token: 0x04000DF9 RID: 3577
+		VEHICLE,
+		// Token: 0x04000DFA RID: 3578
+		CLAIM,
+		// Token: 0x04000DFB RID: 3579
+		BEACON,
+		// Token: 0x04000DFC RID: 3580
+		STORAGE_WALL,
+		// Token: 0x04000DFD RID: 3581
+		BARREL_RAIN,
+		// Token: 0x04000DFE RID: 3582
+		OIL,
+		// Token: 0x04000DFF RID: 3583
+		CAGE,
+		// Token: 0x04000E00 RID: 3584
+		SHUTTER,
+		// Token: 0x04000E01 RID: 3585
+		TANK,
+		// Token: 0x04000E02 RID: 3586
+		CHARGE,
+		// Token: 0x04000E03 RID: 3587
+		SENTRY,
+		// Token: 0x04000E04 RID: 3588
+		OVEN,
+		// Token: 0x04000E05 RID: 3589
+		LIBRARY,
+		// Token: 0x04000E06 RID: 3590
+		OXYGENATOR,
+		// Token: 0x04000E07 RID: 3591
+		GLASS,
+		// Token: 0x04000E08 RID: 3592
+		NOTE,
+		// Token: 0x04000E09 RID: 3593
+		HATCH,
+		// Token: 0x04000E0A RID: 3594
+		MANNEQUIN,
+		// Token: 0x04000E0B RID: 3595
+		STEREO,
+		// Token: 0x04000E0C RID: 3596
+		SIGN_WALL,
+		// Token: 0x04000E0D RID: 3597
+		CLOCK
+	}
+}

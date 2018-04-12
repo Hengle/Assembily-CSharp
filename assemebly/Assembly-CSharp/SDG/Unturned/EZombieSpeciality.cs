@@ -1,0 +1,43 @@
+﻿using System;
+
+namespace SDG.Unturned
+{
+	// Token: 0x020007CE RID: 1998
+	public enum EZombieSpeciality
+	{
+		// Token: 0x04002DC5 RID: 11717
+		NONE,
+		// Token: 0x04002DC6 RID: 11718
+		NORMAL,
+		// Token: 0x04002DC7 RID: 11719
+		MEGA,
+		// Token: 0x04002DC8 RID: 11720
+		CRAWLER,
+		// Token: 0x04002DC9 RID: 11721
+		SPRINTER,
+		// Token: 0x04002DCA RID: 11722
+		FLANKER_FRIENDLY,
+		// Token: 0x04002DCB RID: 11723
+		FLANKER_STALK,
+		// Token: 0x04002DCC RID: 11724
+		BURNER,
+		// Token: 0x04002DCD RID: 11725
+		ACID,
+		// Token: 0x04002DCE RID: 11726
+		BOSS_ELECTRIC,
+		// Token: 0x04002DCF RID: 11727
+		BOSS_WIND,
+		// Token: 0x04002DD0 RID: 11728
+		BOSS_FIRE,
+		// Token: 0x04002DD1 RID: 11729
+		BOSS_ALL,
+		// Token: 0x04002DD2 RID: 11730
+		BOSS_MAGMA,
+		// Token: 0x04002DD3 RID: 11731
+		SPIRIT,
+		// Token: 0x04002DD4 RID: 11732
+		BOSS_SPIRIT,
+		// Token: 0x04002DD5 RID: 11733
+		BOSS_NUCLEAR
+	}
+}
